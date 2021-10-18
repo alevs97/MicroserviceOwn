@@ -1,6 +1,0 @@
-limits-service:
-  minimum : 65
-  maximum : 97
-
-server:
-  port:2000
